@@ -11,7 +11,7 @@ dir(module) and do not start with an underscore.
 
 These conditions should be satisfiable in 99% of cases.
 
-One this program is finished modifying a module, a linter should be used to
+Once this program is finished modifying a module, a linter should be used to
 remove unnecessary imports and find names that aren't defined.
 """
 import re
